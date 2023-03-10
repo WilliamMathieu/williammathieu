@@ -1,6 +1,8 @@
 ### Hello there 👋
 🔭 I’m currently working on tools to help with RF coil development for MRI.
 
+My github-pages is under construction: https://williammathieu.github.io/
+
 <!--
 **WilliamMathieu/williammathieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
